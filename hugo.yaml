@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://raimondmf.github.io/about
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Rai Miralles' Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,13 +23,13 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Rai Miralles' Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+  #bn:
+  #  languageCode: bn
+  #  languageName: বাংলা
+  #  title: জনের ব্লগ
+  #  weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -147,8 +147,8 @@ params:
       enabled: true
       services:
         # Google Analytics
-        google:
-          id: G-H4LBG7NDFZ
+        #google:
+        #  id: G-H4LBG7NDFZ
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
@@ -164,11 +164,11 @@ params:
     support:
       enable: false
       services:
-        kofi:
-          user: hossainemruz
-          text: Tip Me
-          textColor: '#f9fafc'
-          backgroundColor: '#248aaa'
+        #kofi:
+        #  user: hossainemruz
+        #  text: Tip Me
+        #  textColor: '#f9fafc'
+        #  backgroundColor: '#248aaa'
         # buymeacoffee:
         #   user: <your buymeacoffee.com user>
         #   text: Support me on Buy me a coffee!
