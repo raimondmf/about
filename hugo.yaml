@@ -58,17 +58,17 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background02.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/Logo180.png
+    inverted: /images/site/Logo180.png
+    favicon: /images/site/favicon.ico
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/raimondmf/about
   # Default branch of your Git repo
   gitBranch: main
 
@@ -89,9 +89,10 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
-      showAuthor: true # shows the author of post (defaults true)
+      enable: false
+      #showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
+<<<<<<< HEAD
       shareButtons:
         #facebook: true
         #twitter: true
@@ -99,6 +100,15 @@ params:
         #reddit: true
         #whatsapp: true
         email: true
+=======
+      #shareButtons:
+      #  facebook: true
+      #  twitter: true
+      #  linkedin: true
+      #  reddit: true
+      #  whatsapp: true
+      #  email: true
+>>>>>>> d4b3385eb411adbf3fb2f83df75cd0e3de9892cf
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -144,7 +154,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         #google:
