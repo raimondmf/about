@@ -1,4 +1,4 @@
-module github.com/raimondmf/raimondmf.github.io
+module github.com/raimondmf/about
 
 go 1.21
 
