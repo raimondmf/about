@@ -92,23 +92,13 @@ params:
       enable: false
       #showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
-<<<<<<< HEAD
-      shareButtons:
-        #facebook: true
-        #twitter: true
-        linkedin: true
-        #reddit: true
-        #whatsapp: true
-        email: true
-=======
-      #shareButtons:
-      #  facebook: true
-      #  twitter: true
-      #  linkedin: true
-      #  reddit: true
-      #  whatsapp: true
-      #  email: true
->>>>>>> d4b3385eb411adbf3fb2f83df75cd0e3de9892cf
+      # shareButtons:
+        # facebook: true
+        # twitter: true
+        # linkedin: true
+        # reddit: true
+        # whatsapp: true
+        # email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
