@@ -65,7 +65,7 @@ params:
   logo:
     main: /images/site/Logo180.png
     inverted: /images/site/Logo180.png
-    favicon: /images/site/favicon.ico
+    favicon: /images/site/Logo_zero_iconos.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/raimondmf/about

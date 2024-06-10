@@ -97,15 +97,6 @@ badges:
   percentage: 75
   color: red
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 75
-  color: orange
-
-  - type: soft-skill-indicator
-  name: Strategic
-  percentage: 50
-  color: violet
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
