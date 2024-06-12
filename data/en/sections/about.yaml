@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: '.'
+summary: 'I work as Information Security Officer (ISO) focused on digital transformation, product and standardization mindset. With more than fifteen years of experience in Information Security and Cybersecurity, I started my career with different IT roles like software developer, Unix/Linux & DB admin and Network administrator. Although my main experience is in Banking and Financial services I worked for other industries like manufacturing, transportation and telecommunication among others.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -68,19 +68,19 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Certified Information Systems Security Professional (CISSP)
+  url: "https://www.credly.com/earner/earned/badge/c4e00c66-d5f9-4dda-8aca-b6b76aa15b25"
+  badge: "https://images.credly.com/size/680x680/images/b7150375-ed4c-4383-b976-951b8f531899/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Certified Secure Software Lifecycle Professional (CSSLP)
+  url: "https://www.credly.com/badges/eceb5827-1f08-420a-8c0a-b5e65876a4ce"
+  badge: "https://images.credly.com/size/680x680/images/2ca15936-bd13-4db9-86cb-8da72a71d701/image.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Certificate of Cloud Security Knowledge v.4
+  url: "https://www.credly.com/earner/earned/badge/5e6c2979-7e94-4905-ac08-b684079d6e13"
+  badge: "https://images.credly.com/size/680x680/images/25ba8143-ac0a-413c-8c66-01c9edc4a80f/CCSK-v4-Credly-badge.png"
 
 - type: soft-skill-indicator
   name: Information Security Officer
@@ -89,13 +89,13 @@ badges:
 
 - type: soft-skill-indicator
   name: Information Security Architect
-  percentage: 75
-  color: blue
+  percentage: 100
+  color: yellow
 
 - type: soft-skill-indicator
   name: Team Lead
-  percentage: 75
-  color: red
+  percentage: 100
+  color: blue
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
