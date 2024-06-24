@@ -2,7 +2,7 @@
 name: ""
 nickname: ""
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hello - I am an ISO working for Mercedes-Benz GSM"
+greeting: "I am an ISO working at Mercedes-Benz GSM"
 image: "images/author/avatar.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
