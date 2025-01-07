@@ -49,7 +49,7 @@ degrees:
   institution: 
     name: ISC2 
     url: "https://www.isc2.org/certifications/csslp"
-    logo: /images/sections/education/ISC2-Logo.png
+    logo: /images/sections/education/isc2-logo2.png
     # Can optionally show a different logo for dark theme
     #darkLogo: /images/sections/education/MIT-logo-black.png
   #grade: #(optional)
@@ -98,7 +98,7 @@ degrees:
   institution: 
     name: ISC2 
     url: "https://www.isc2.org/certifications/cissp"
-    logo: /images/sections/education/ISC2-Logo.png
+    logo: /images/sections/education/isc2-logo2.png
     # Can optionally show a different logo for dark theme
     #darkLogo: /images/sections/education/MIT-logo-black.png
   #grade: #(optional)
