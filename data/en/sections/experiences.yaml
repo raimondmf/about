@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Motor Vehicle Manufacturing. Service Hub located on San Sebastian de los Reyes (Madrid) 
+    overview: Motor Vehicle Manufacturing. IT Service Hub located on San Sebastian de los Reyes (Madrid) 
   positions:
   - designation: Information Security Officer
     start: Mar 2019
@@ -43,9 +43,10 @@ experiences:
     start: Aug 2018
     end: Feb 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Information Security Architect and Risk Analyst for International projects.
+    - Focus on modernizing legacy applications, guiding their secure migration to microservices architectures.
+    - Ensuring compliance and standardized security practices.
+    - Effectively aligning security with business goals and driving innovation in secure application delivery.
 
 - company:
     name: Nextel SA (S21)
@@ -73,11 +74,11 @@ experiences:
     start: Jan 2012
     end: Mar 2015
     responsibilities:
-    - Management of the product roadmap aligned with the customer expectation and priorities.
-    - Project Planning, Control and Scoping.
-    - Coordinate deployments between vendor partners and customer.
-    - Product technical guides for the deployment, operation, design and sales.
-    - Customer sponsorship of the solution among all locations.
+    - Product Roadmap Management; Ensure alignment with customer expectations and priorities.
+    - Project Oversight; Plan; scope, and control project execution effectively.
+    - Deployment Coordination; Manage deployments between vendor partners and customers.
+    - Technical Documentation; Develop guides for deployment, operation, design, and sales processes.
+    - Customer Advocacy; Champion the solution's adoption across all customer locations
 
 - company:
     name: Nextel SA (S21)
@@ -90,11 +91,10 @@ experiences:
     start: Jun 2006
     end: Dec 2011
     responsibilities:
-    - Professional services manager coordinating technical resources from different partners.
-    - Support mamager coordinating support's team on a 24x7 service model for main customers.
-    - Design, deployment, migration and support of Cybersecuirty solutions and services.
-    - Technical presales suporting Sales department in sales process.
-    - Technical recruiting suporting Human Resources department.
+    - Professional Services Management; Coordinate technical resources across multiple partners to deliver effective solutions.
+    - Support Management; Oversee 24/7 support operations for key customers, ensuring service excellence.
+    - Cybersecurity Solutions; Lead the design, deployment, migration, and support of advanced cybersecurity solutions and services.
+    - Technical Presales; Provide expert support to the Sales team throughout the sales process.
 
 - company:
     name: Accenture
